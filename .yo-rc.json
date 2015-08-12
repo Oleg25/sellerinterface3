@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "sellerinterface",
+    "packageName": "com.terracorp.si",
+    "packageFolder": "com/terracorp/si",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "oracle",
+    "searchEngine": "elasticsearch",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": false,
+    "rememberMeKey": "70bbe935f5037ce4f28c6f5efb59a12681423ec2"
+  }
+}
